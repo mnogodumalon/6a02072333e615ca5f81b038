@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "forms": [
+    {
+      "entity": "test_123",
+      "app_id": "6a020719651662d7efb5c8a5",
+      "path": "/rest/apps/6a020719651662d7efb5c8a5/records",
+      "allowed_fields": [
+        "titel",
+        "beschreibung",
+        "datum",
+        "nummer",
+        "aktiv"
+      ],
+      "pow": true,
+      "pow_difficulty": 50000,
+      "title": "Test 123 — Formular"
+    }
+  ]
+}
